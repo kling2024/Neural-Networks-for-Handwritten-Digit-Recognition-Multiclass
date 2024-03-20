@@ -221,7 +221,7 @@ _________________________________________________________________
 ```python
 # BEGIN UNIT TEST     
 test_model(model, 10, 400)
-# END UNIT TEST    
+# END UNIT TEST
 All tests passed. 
 ```
     
