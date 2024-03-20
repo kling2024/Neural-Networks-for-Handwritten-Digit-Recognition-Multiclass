@@ -92,7 +92,7 @@ plt_softmax(my_softmax)
 
 ## Neural Networks
 
-Here I implemented a neural network to do multiclass classification, which utilized the softmax activation.
+Here, I implemented a neural network to do multiclass classification, which utilized the softmax activation.
 
 ### Problem Statement
 
